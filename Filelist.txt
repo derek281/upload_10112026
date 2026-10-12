@@ -1,0 +1,48 @@
+robot_project.zip
+Folder
+robomaster_dashboard: Project to control robomaster
+	contains:
+		*.log: log files of each section and step
+		*.txt: Output of the project about state
+		*.json: JSON files
+		*.ps1: script of VS code for each section and step
+		*.py: Python files
+		*.md: Guide files about sections and steps to create dashboard
+		... ...
+
+File (*.md)
+Guides file how to create dashboard to control robomaster
+
+robot_project1.zip
+Folder
+booster_t2: Project to control HUMANOID ROBOT-BOOSTER T2
+	contains:
+		*.log: log files of each section and step
+		*.txt: Output of the project about state
+		*.json: JSON files
+		*.py: Python files
+		*.md: Guide files about sections and steps to create project
+		... ...
+download: DEB files (library files to create project to control amd64)
+
+robot_project2.zip
+Folder
+humanoid_robot: Project to control HUMANOID ROBOT-SELF CONSTRUCTURE
+		*.log: log files of each section and step
+		*.txt: Output of the project about state
+		*.json: JSON files
+		*.py: Python files
+		*.md: Guide files about sections and steps to create project
+		... ...
+ocr: OCR package files to realize OCR Function
+
+robot_project3.zip
+Folder
+offline_packages: Package files to create project to control HUMANOID ROBOT in wlan
+		ubuntu22.04 files, face recognition and perception package and their models, other model packages
+whisper.cpp-1.9.4: Package files to recognize human voice and to trasmition to text
+
+robot_project4.zip
+Files
+ChatGPT... .md: Guide file to realize connection between robomaster and its control module raspberry pi 3d
+KMS_core... .zip: Activation of development environment
